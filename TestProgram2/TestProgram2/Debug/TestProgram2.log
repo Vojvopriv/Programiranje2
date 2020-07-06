@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\Project\TestProgram2\TestProgram2\Source.cpp(6,6): warning C4101: 'a': unreferenced local variable
+C:\Users\User\Desktop\Project\TestProgram2\TestProgram2\Source.cpp(6,9): warning C4101: 'b': unreferenced local variable
+C:\Users\User\Desktop\Project\TestProgram2\TestProgram2\Source.cpp(6,12): warning C4101: 'c': unreferenced local variable
+  TestProgram2.vcxproj -> C:\Users\User\Desktop\Project\TestProgram2\Debug\TestProgram2.exe
