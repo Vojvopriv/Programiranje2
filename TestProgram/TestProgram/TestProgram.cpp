@@ -11,7 +11,7 @@ int main()
 
     if (a > b)
         printf(" ");
-    else printf("Samo je mojasdasdasd stari znao");
+    else printf("Samo je moj stari znao");
 
     return 0;
 
