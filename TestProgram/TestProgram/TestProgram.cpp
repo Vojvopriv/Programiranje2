@@ -11,7 +11,11 @@ int main()
 
     if (a > b)
         printf(" ");
+<<<<<<< HEAD
     else printf("Samo je nije stari znao");
+=======
+    else printf("Samo je moj stari znao");
+>>>>>>> 806747bfdce05833ceb3b0602ae8e86eb4e2b5bb
 
     return 0;
 
