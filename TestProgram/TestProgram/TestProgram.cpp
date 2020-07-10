@@ -15,6 +15,11 @@ int main()
     else printf("Samo je nije stari znao");
 =======
     else printf("Samo je moj stari znao");
+    
+    std::cout << " This is me making a change to Program1. ";
+
+    std::cout << " this is me making an edit(locally) to the change of the Program1. ";
+
 >>>>>>> 806747bfdce05833ceb3b0602ae8e86eb4e2b5bb
 
     return 0;
