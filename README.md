@@ -12,3 +12,5 @@ Yup **this is bald**;
 Updates I've made on Github.
 
 PROBLEMATIC CHANGES FIXED USING THE P4MERGE.
+
+So I edited this while working with issues..
