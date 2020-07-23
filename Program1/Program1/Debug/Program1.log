@@ -1,0 +1,3 @@
+﻿  Program1.cpp
+C:\Users\User\Desktop\Projects-priv\Program1\Program1\Program1.cpp(10,15): warning C4101: 'c': unreferenced local variable
+  Program1.vcxproj -> C:\Users\User\Desktop\Projects-priv\Program1\Debug\Program1.exe
