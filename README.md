@@ -1,4 +1,4 @@
-# Programiranje
+# Neki od zadataka uradjenih na predmetu Programiranje 2
 
 ## This is a readme.
 
