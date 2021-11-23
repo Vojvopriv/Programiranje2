@@ -1,4 +1,4 @@
-# Neki od zadataka uradjenih na predmetu Programiranje 2
+# Neki test, nesto
 
 ## This is a readme.
 
